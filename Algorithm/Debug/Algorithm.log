@@ -1,0 +1,3 @@
+﻿  Algorithm.cpp
+c:\c++\algorithm\algorithm\algorithm.cpp(235): warning C4018: '<': signed/unsigned mismatch
+  Algorithm.vcxproj -> C:\C++\Algorithm\Debug\Algorithm.exe
